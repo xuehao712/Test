@@ -58,7 +58,7 @@ class Yuansfer
         TEST_MODE = 'test';
 
     const PRODUCTION_URL = 'https://mapi.yuansfer.com',
-        TEST_URL = 'https://mapi.yuansfer.yunkeguan.com';
+        TEST_URL = 'https://ppwebhooks.liudafang.com';
 
     /**
      * @var string The merchant NO.
