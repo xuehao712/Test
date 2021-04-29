@@ -3,7 +3,7 @@
 namespace Yuansfer\Exception;
 
 
-class RequiredEmptyException extends \InvalidArgumentException implements YuansferException
+class RequiredEmptyException extends \Exception implements YuansferException
 {
     protected $api;
 
